@@ -9,7 +9,7 @@ import numpy as np
 
 # loading the saved models
 
-credit_model = pickle.load(open('E:\ml projects\Classification Machine Learning Projects 6\Credit Card Fraud Detection using Machine Learning in Python\web\credit_model.sav', 'rb'))
+credit_model = pickle.load(open('credit_model.sav', 'rb'))
 
 
 
